@@ -26,7 +26,7 @@ class Test:
     @classmethod
     def setup(cls):
         #app = os.path.abspath('./Coffee Ratio/build/Debug-iphonesimulator/Coffee Ratio.app')
-        app = os.path.abspath('/Users/Shared/Jenkins/Home/workspace/MusicGram_Tool_iOS_For_Tests/iOS-iPhone/MusicGram/Build/MusicGram.app')
+        app = os.path.abspath('/Users/Shared/Jenkins/Desktop/iOS_builds/MusicGram_Test/MusicGram.app')
         #app = os.path.abspath('./iOS-iPhone/MusicGram/Build/MusicGram.ipa')
         cls.driver = webdriver.Remote(
             command_executor='http://127.0.0.1:4723/wd/hub',
