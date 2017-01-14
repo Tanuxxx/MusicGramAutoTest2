@@ -33,7 +33,7 @@ class Test:
             desired_capabilities={
                 'app': app,
                 'platformName': 'iOS',
-                'platformVersion': '10.0',
+                'platformVersion': '10.2',
                 'deviceName': "iPhone Simulator",
                 #'deviceName': "iPhone",
                 #'deviceName': "iPhone 7 plus",
