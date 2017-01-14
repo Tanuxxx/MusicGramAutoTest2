@@ -42,7 +42,8 @@ class Test:
                 #'udid': "4a229109c6e0979665efc7f934fb743aaefb37a3",
                 "noReset": "false",
                 "automationName": "xcuitest",
-                "appiumVersion": "1.6.1-beta"
+                "appiumVersion": "1.6.1-beta",
+                "showIOSLog": "true"
                 #           'deviceName': 'iPhone 6'
             })
 
